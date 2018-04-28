@@ -5,3 +5,6 @@
 #Always enable
 !.gitignore
 !/**/*.brd
+
+#Always disable
+/**/AUTOSAVE*
