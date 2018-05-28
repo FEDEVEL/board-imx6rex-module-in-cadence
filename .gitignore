@@ -7,4 +7,5 @@
 !/**/*.brd
 
 #Always disable
-/**/AUTOSAVE*
+/**/*AUTOSAVE*
+/**/*TMP*
