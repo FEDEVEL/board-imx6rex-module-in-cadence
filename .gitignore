@@ -4,8 +4,8 @@
 
 #Enable Specific directory, disable everything inside this directory
 !/iMX6Rex Module - Memory Simulation
-/iMX6Rex Module - Memory Simulation/*
-/iMX6Rex Module - Memory Simulation/*/
+#/iMX6Rex Module - Memory Simulation/*
+#/iMX6Rex Module - Memory Simulation/*/
 
 #Always enable
 !.gitignore
